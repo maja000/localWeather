@@ -1,0 +1,27 @@
+body {
+  background-image:url(http://www.wallpapersxl.com/wallpapers/1600x1200/loading/574157/loading-android-hd-p-other-574156.8.jpg);
+  background-size:1500px 1000px;
+  background-repeat:no-repeat;
+}
+
+.title {
+  margin-top:10px;
+  color:#661aff;
+  margin-bottom:10px;
+}
+
+.temp {
+  color:red;
+  font-size:60px;
+}
+
+.botuni {
+  color:black;
+  font-size:25px;
+}
+
+body {
+  background-size:cover;
+  background-position:center;
+}
+
